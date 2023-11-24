@@ -1,0 +1,1 @@
+Decimation with 16 example for pynq
